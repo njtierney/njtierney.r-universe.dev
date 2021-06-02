@@ -1,0 +1,34 @@
+[
+    {
+        "package": "naniar",
+        "url": "https://github.com/njtierney/naniar"
+    },
+    {
+        "package": "visdat",
+        "url": "https://github.com/ropensci/visdat"
+    },
+    {
+        "package": "brolgar",
+        "url": "https://github.com/njtierney/brolgar"
+    },
+    {
+        "package": "syn",
+        "url": "https://github.com/njtierney/syn"
+    },
+    {
+        "package": "maxcovr",
+        "url": "https://github.com/njtierney/maxcovr"
+    },
+    {
+        "package": "mmcc",
+        "url": "https://github.com/njtierney/mmcc"
+    },
+    {
+        "package": "broomstick",
+        "url": "https://github.com/njtierney/broomstick"
+    },
+    {
+        "package": "chaletex",
+        "url": "https://github.com/njtierney/chaletex"
+    }
+]
