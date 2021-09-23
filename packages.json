@@ -34,5 +34,9 @@
     {
         "package": "yahtsee",
         "url": "https://github.com/njtierney/yahtsee"
+    },
+    {
+        "package": "conmat",
+        "url": "https://github.com/njtierney/conmat"
     }
 ]
