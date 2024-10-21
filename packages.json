@@ -38,7 +38,8 @@
     {
         "package": "geotargets",
         "url": "https://github.com/njtierney/geotargets"
-    },{
+    },
+    {
         "package": "ozroaddeaths",
         "url": "https://github.com/njtierney/ozroaddeaths"
     }
